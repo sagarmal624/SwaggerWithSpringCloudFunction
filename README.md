@@ -12,7 +12,7 @@ add below depedency in yout pom.xml or build.gradle
 </dependency>
 ```
 ```gradle
-compile 'com.sapient.pscode:spring-boot-starter-cloudswagger:LATEST'
+compile 'com.sagarandcompany.swagger:spring-boot-starter-cloudswagger:LATEST'
 ```
 ### 2)-How to Override Custom Config for Swagger Documentation in properties file
 ```java
