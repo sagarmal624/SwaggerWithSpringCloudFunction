@@ -1,4 +1,4 @@
-# Swagger for Spring Cloud Function(Azure/WS/GCP)
+# Swagger for Spring Cloud Function(Azure/AWS/GCP)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKLrvwglZb6h9SEM__fgSjg)
 
