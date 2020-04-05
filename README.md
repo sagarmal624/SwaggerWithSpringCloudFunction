@@ -28,9 +28,9 @@ swagger.externalDocsDescription=Click Here for more info
 swagger.externalDocsUrl=https://swagger.io/
 ```
 ```txt
-// Don't remove com.sapient.pscode package
+// Don't remove com.sagarandcompany.swagger package
 Add Your Package in below way
-@SpringBootApplication(scanBasePackages = {"com.sapient.pscode", "com.example.custom.packagename"})
+@SpringBootApplication(scanBasePackages = {"com.sagarandcompany.swagger", "com.example.custom.packagename"})
 ```
 
 ### 3)-What all are the annotation to use Swagger ?
